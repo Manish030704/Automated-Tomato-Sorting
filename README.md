@@ -42,7 +42,7 @@ To set up the project, follow these steps:
 1. **Clone the repository** to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/automated-tomato-sorting.git
+    git clone https://github.com/Manish030704/Automated-Tomato-Sorting
     ```
 
 2. **Navigate** to the project directory:
